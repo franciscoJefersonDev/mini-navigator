@@ -4,7 +4,7 @@
   },
   "name": "mini_navigator",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "license": "MIT",
   "devDependencies": {
     "electron": "^20.1.4"
